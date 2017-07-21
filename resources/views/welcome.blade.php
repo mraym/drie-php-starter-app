@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Kalbir
+                    Welcome Kalbir
                 </div>
 
                 <div class="links">
